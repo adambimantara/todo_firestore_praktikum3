@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516041245446",
+    "project_id": "todo-firestore-praktikum3",
+    "storage_bucket": "todo-firestore-praktikum3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516041245446:android:7329ccf8c8608ebe8e1487",
+        "android_client_info": {
+          "package_name": "com.example.todo_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVLzry-ENv3cSVJRgezJ6lFnoOsNwzQ2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

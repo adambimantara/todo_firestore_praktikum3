@@ -1,0 +1,25 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "todo-firestore-praktikum3",
+          "appId": "1:516041245446:android:7329ccf8c8608ebe8e1487",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "todo-firestore-praktikum3",
+          "configurations": {
+            "android": "1:516041245446:android:7329ccf8c8608ebe8e1487",
+            "web": "1:516041245446:web:b9daf917f11ebb9a8e1487"
+          }
+        }
+      }
+    }
+  }
+}
